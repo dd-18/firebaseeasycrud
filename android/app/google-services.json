@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665717115442",
+    "project_id": "fir-easycrud",
+    "storage_bucket": "fir-easycrud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665717115442:android:df5eca4554c473303a0a2b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseeasycrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCambbrr7lL8tbkObLtDq6bR2ckMlCE-Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
